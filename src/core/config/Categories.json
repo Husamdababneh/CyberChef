@@ -1,7 +1,8 @@
 [
     {
         "name": "Favourites",
-        "ops": []
+        "ops": [
+        ]
     },
     {
         "name": "Data format",
@@ -453,6 +454,7 @@
             "CSS Minify",
             "XPath expression",
             "JPath expression",
+            "Jsonata expression",
             "CSS selector",
             "PHP Deserialize",
             "Microsoft Script Decoder",
